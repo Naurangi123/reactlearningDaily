@@ -11,12 +11,16 @@ import MultipleReturn from './components/Fetch/MultipleReturn';
 import Memo from './components/Memo/Memo';
 import UseMemo from './components/Memo/UseMemo';
 import Context from './components/ContextAPI/Context';
+import UseReduce from './components/Usereducer/UseReduce';
+import UseRef from './components/UseRef/UseRef';
 
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <UseRef/>
+    <UseReduce/>
     <Context/>
     <Memo/>
     <UseMemo/>
