@@ -1,0 +1,45 @@
+.nature{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #6d6d61b5;
+    border-radius: 5px;
+    
+}
+.nature-image{
+    flex: 0 0 100px;
+    margin-right: 20px;
+}
+.nature-image img{
+    display: block;
+    max-width: 100px;
+    height: auto;
+
+}
+.image-info{
+    flex: 1;
+}
+.image-click{
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.image-price{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 5px;
+
+}
+button{
+    background-color: #c4c415 #eaea09b5 #11db0edb;
+    border-radius: 3px;
+    margin-top: 10px;
+    padding: 8px 10px;
+    cursor: pointer;
+    font-weight: 600;
+    outline: none;
+
+}

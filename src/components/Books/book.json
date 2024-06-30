@@ -1,0 +1,23 @@
+[
+    {
+        "image":"/assets/images/img-1.jpg",
+        "title":"very awesome",
+        "publisher":"Photographer",
+        "price":"$230"
+    
+    },
+    {
+        "image":"/assets/images/img-2.jpg",
+        "title":"very fantastic",
+        "publisher":"Photographer",
+        "price":"$230"
+    
+    },
+    {
+        "image":"/assets/images/img-3.jpg",
+        "title":"very fantastic and beautiful",
+        "publisher":"Photographer",
+        "price":"$230"
+    
+    }
+]
